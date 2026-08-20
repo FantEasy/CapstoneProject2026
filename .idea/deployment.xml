@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="tamer@10.101.19.0:22" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="10.101.25.157">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="10.3.20.52">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="tamer@10.101.19.0:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_505" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="tamer@10.101.21.147:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_43" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="tamer@10.101.21.25:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_303" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="tamer@10.101.25.157:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_347" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="tamer@10.101.49.43:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_118" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="tamer@10.101.9.77:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_857" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="tamer@10.3.20.52:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_525" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="tamer@192.168.0.102:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_871" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="tamer@192.168.0.104:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_947" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="tamer@192.168.0.104:22 (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_709" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="tamer@192.168.218.147:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_743" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="tamer@192.168.218.157:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_86" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
